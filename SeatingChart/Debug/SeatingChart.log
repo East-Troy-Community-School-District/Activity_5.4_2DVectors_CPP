@@ -1,0 +1,4 @@
+﻿  SeatingChart.cpp
+\\et-fileserver\staff\pawnol\Desktop\SeatingChart\SeatingChart.cpp(37,23): warning C4018: '<': signed/unsigned mismatch
+\\et-fileserver\staff\pawnol\Desktop\SeatingChart\SeatingChart.cpp(39,27): warning C4018: '<': signed/unsigned mismatch
+  SeatingChart.vcxproj -> \\et-fileserver\staff\pawnol\Desktop\SeatingChart\Debug\SeatingChart.exe
